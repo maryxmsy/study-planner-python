@@ -1,0 +1,57 @@
+===== STUDY REPORT =====
+
+Task Name : DSA.
+Priority  : High
+Status    : Pending
+Due Date  : 15-08-2026
+----------------------------
+Task Name : Python
+Priority  : High
+Status    : Pending
+Due Date  : 25-07-2026
+----------------------------
+Task Name : Python Assimgment
+Priority  : High
+Status    : Pending
+Due Date  : 26-07-2026
+----------------------------
+Task Name : Dsa practice
+Priority  : High
+Status    : Completed
+Due Date  : 02-08-2026
+----------------------------
+Task Name : GRE
+Priority  : Medium
+Status    : Pending
+Due Date  : 29-07-2026
+----------------------------
+Task Name : gre
+Priority  : Medium
+Status    : Completed
+Due Date  : 24-07-2026
+----------------------------
+Task Name : Python notes
+Priority  : Medium
+Status    : Completed
+Due Date  : 30-07-2026
+----------------------------
+Task Name : pyth
+Priority  : Medium
+Status    : Completed
+Due Date  : 25-07-2026
+----------------------------
+Task Name : maths
+Priority  : Medium
+Status    : Pending
+Due Date  : 15-07-2026
+----------------------------
+Task Name : maths
+Priority  : Low
+Status    : Pending
+Due Date  : 01-08-2026
+----------------------------
+Task Name : maths2
+Priority  : Low
+Status    : Pending
+Due Date  : 02-05-2025
+----------------------------
